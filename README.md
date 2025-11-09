@@ -28,5 +28,5 @@ This project is created to practice **state management using Redux Toolkit** and
 
 ### 1️⃣ Clone repository
 ```bash
-git clone https://github.com/your-username/react-redux-practice.git
+git clone https://github.com/jitendrapatidar20/react-redux-practice.git
 cd react-redux-practice
